@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+nav{
+    background-color: black;
+    height: 50px;
+    font-size: 30px;
+}
+
+a{
+    color: white;
+    text-decoration:none;
+    letter-spacing: 0.8px;
+    padding: 20px;
+}
